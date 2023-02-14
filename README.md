@@ -15,4 +15,4 @@
 - make change and configure apache
 - sudo chgrp
 - sudo chmod
-these are the general commands, i did not upload the command history since the connection was interrupted multiple time and i logged out in the middle of the process.  
+### these are the general commands, i did not upload the command history since the connection was interrupted multiple time and i logged out in the middle of the process.  
