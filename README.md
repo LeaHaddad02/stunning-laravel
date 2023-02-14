@@ -8,7 +8,7 @@
 - ssh to server
 - a2enmod rewrite
 - restart apache2
-- clone repository
+- sudo git clone 
 - install and run composer : curl, composer install
 - nano .env (creating a .env file and edit it)
 - php artisan key:generate
