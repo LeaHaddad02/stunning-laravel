@@ -4,7 +4,7 @@
 - apt-get command: allows the user to search, install, manage, update and remove softwares. 
 - sudo chmod command: chmod command is used to add, remove, or modify file or directory permissions, to protect, hide, or open up access to a file by other users
 - sudo chgrp command: The chgrp (change group) command alters the group name that a file or directory belongs to, in other words, it changes the group ownership of the file or directory. 
-## Deploy a website
+## Deploy a website - general commands
 - ssh to server
 - a2enmod rewrite
 - restart apache2
